@@ -1,0 +1,15 @@
+{
+  "name": "telepronter",
+  "version": "1.0.0",
+  "description": "telepronter",
+  "main": "javascript.js",
+  "dependencies": {
+    "browser-sync": "^2.23.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
